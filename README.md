@@ -12,7 +12,7 @@ A comprehensive job portal application built using the MERN (MongoDB, Express.js
 
 <img width="1919" height="1031" alt="dashboard" src="https://github.com/dushyant-netizen/WEB-DEV-1/blob/main/page.png" />
 
-Demo: [Watch Here](https://www.youtube.com/watch?v=lIrN-LbbBnw&ab_channel=ShlokPandey)
+Demo: [Watch Here](https://github.com/dushyant-netizen/WEB-DEV-1/blob/main/Video%20Project%20(1)%20(1)%20(1).mp4)
 
 
 
