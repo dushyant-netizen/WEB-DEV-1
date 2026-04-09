@@ -2,6 +2,17 @@
 
 A comprehensive job portal application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. This application allows users to browse job listings, apply for jobs, and manage their applications seamlessly.
 
+## ScreenShots
+
+## Register Page
+
+<img width="1919" height="1029" alt="register" src="https://github.com/dushyant-netizen/WEB-DEV-3/blob/main/SIGNUP.png" />
+
+## Main Page
+
+<img width="1919" height="1031" alt="dashboard" src="https://github.com/dushyant-netizen/WEB-DEV-3/blob/main/MAIN.png" />
+
+
 ## Features
 
 - **User Authentication:** Secure authentication using JWT (JSON Web Tokens) for both job seekers and employers.
